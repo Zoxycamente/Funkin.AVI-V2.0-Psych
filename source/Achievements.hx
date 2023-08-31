@@ -13,9 +13,7 @@ class Achievements {
 	public static var achievementsStuff:Array<Dynamic> = [ //Name, Description, Achievement save tag, Hidden achievement
 	    ["We Be Gamin'",		        "Log To GameJolt!",				                    'gamejolt',		    false],
 		["Nothing is Real...",		    "Complete Episode 1.",				                'episode1',		    false],
-		["'Smiling For The Show.'",		"Complete Episode 2.",				                'episode2',			false],
-		["True Satanist",				"FC Episode 1.",									'episode1_nomiss',	false],
-		["My Smile is Bigger!",			"FC Episode 2.",									'episode2_nomiss',	false],
+		["My Smile is sex!",			"FC Episode 2.",									'episode2_nomiss',	false],
 		["Horrendous Consequences",		"Beat Episode 1 on Suicidal Difficulty.",			'episode1_suicide',	false],
 		["Sinister Smiles",				"Beat Episode 2 on Suicidal Difficulty.",			'episode2_suicide',	false],
 		["Isolation, Madness, Voices, It Never Ends...",					"FC Episode 1 on Suicidal Difficulty.",				'episode1_SFC',		false],
